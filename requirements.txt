@@ -1,0 +1,6 @@
+Flask
+jsonify
+request
+pyodbc
+flask
+uwsgi
